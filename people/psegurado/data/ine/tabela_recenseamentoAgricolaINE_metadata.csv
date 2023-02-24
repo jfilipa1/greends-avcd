@@ -1,0 +1,69 @@
+Agricultural Census data,
+Source: https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_base_dados&contexto=bd&selTab=tab2,
+Report: https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes&PUBLICACOESpub_boui=437178558&PUBLICACOESmodo=2,
+,
+,
+,
+Column,Description
+NutsID,"Code NUTS 2013, according to https://smi.ine.pt/Categoria/Parent/3503"
+DICOFRE,code DICOFRE of CAOP
+region_name,region name
+year,year
+edu_none,Familiar agricultural population (No.) and Level of education - None
+edu_basic,Familiar agricultural population (No.) and Level of education - Basic
+edu_secondary,Familiar agricultural population (No.) and Level of education - Secondary / post-secondary
+edu_superior,Familiar agricultural population (No.) and Level of education - Superior
+labour_family,Volume of agricultural labour force (AWU) and Type of labour force - Family labour force
+labour_holder,Volume of agricultural labour force (AWU) and Type of labour force - Holder
+labour_spouse,Volume of agricultural labour force (AWU) and Type of labour force - Spouse
+labour_other_family,Volume of agricultural labour force (AWU) and Type of labour force - Other family members
+labour_non_family,Volume of agricultural labour force (AWU) and Type of labour force - Non-family labour force
+labour_regular,Volume of agricultural labour force (AWU) and Type of labour force - Regular
+labour_non_regular,Volume of agricultural labour force (AWU) and Type of labour force - Non-regular
+labour_not_hired,Volume of agricultural labour force (AWU) and Type of labour force - Workers not hired by the holder
+production_eur,Value of total standard production (€) of agricultural holdings
+production_area,Average value of total standard output by hectare of utilised agricultural area (€/ ha)
+livestock_cattle,Livestock (No.) of agricultural holdings - Cattle
+livestock_pigs,Livestock (No.) of agricultural holdings - Pigs
+livestock_sheep,Livestock (No.) of agricultural holdings - Sheep
+livestock_goats,Livestock (No.) of agricultural holdings - Goats
+livestock_equidae,Livestock (No.) of agricultural holdings - Equidae
+livestock_poultry,Livestock (No.) of agricultural holdings - Poultry
+livestock_rabbits,Livestock (No.) of agricultural holdings - Rabbits
+livestock_hives,Livestock (No.) of agricultural holdings - Inhabited hives and traditional cork hives
+grassland_area,Area of permanent grassland and meadow (ha)
+grassland_holdings,Agricultural holdings with permanent grassland and meadow (No.)
+cereals_area,Area of temporary crops (ha) - Cereals
+dried_pulses_area,Area of temporary crops (ha) - Dried pulses
+grasses_area,Area of temporary crops (ha) - Temporary grasses and grazings
+fodder_area,Area of temporary crops (ha) - Fodder plants
+potatoes_area,Area of temporary crops (ha) - Potatoes
+sugarbeets_area,Area of temporary crops (ha) - Sugarbeets
+industrial_crops_area,Area of temporary crops (ha) - Industrial crops
+fresh_veg_area,Area of temporary crops (ha) - Fresh vegetables
+flowers_area,Area of temporary crops (ha) - Flowers and ornamental plants
+other_temp_crops_area,Area of temporary crops (ha) - Other temporary crops
+cereals_area,Agricultural holdings with temporary crops (No.) - Cereals
+dried_pulses_area,Agricultural holdings with temporary crops (No.) - Dried pulses
+grasses_area,Agricultural holdings with temporary crops (No.) - Temporary grasses and grazings
+fodder_area,Agricultural holdings with temporary crops (No.) - Fodder plants
+potatoes_area,Agricultural holdings with temporary crops (No.) - Potatoes
+sugarbeets_area,Agricultural holdings with temporary crops (No.) - Sugarbeets
+industrial_crops_area,Agricultural holdings with temporary crops (No.) - Industrial crops
+fresh_veg_area,Agricultural holdings with temporary crops (No.) - Fresh vegetables
+flowers_area,Agricultural holdings with temporary crops (No.) - Flowers and ornamental plants
+other_temp_crops_area,Agricultural holdings with temporary crops (No.) - Other temporary crops
+fresh_fruit_area,Area of permanent crops (ha) - Fresh fruit plantations (excluding citrus plantations)
+citrus_area,Area of permanent crops (ha) - Citrus plantations
+fruit_area,Area of permanent crops (ha) - Fruit plantations (subtropical climate zones)
+nuts_area,Area of permanent crops (ha) - Nuts plantations
+olive_area,Area of permanent crops (ha) - Olive plantations
+vineyards_area,Area of permanent crops (ha) - Vineyards
+other_permanent_crop_area,Area of permanent crops (ha) - Other permanent crops
+fresh_fruit_holdings,Agricultural holdings with permanent crops (No.) - Fresh fruit plantations (excluding citrus plantations)
+citrus_holdings,Agricultural holdings with permanent crops (No.) - Citrus plantations
+fruit_holdings,Agricultural holdings with permanent crops (No.) - Fruit plantations (subtropical climate zones)
+nuts_holdings,Agricultural holdings with permanent crops (No.) - Nuts plantations
+olive_holdings,Agricultural holdings with permanent crops (No.) - Olive plantations
+vineyard_holdings,Agricultural holdings with permanent crops (No.) - Vineyards
+other_permanent_crop_holdings,Agricultural holdings with permanent crops (No.) - Other permanent crops
