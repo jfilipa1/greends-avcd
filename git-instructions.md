@@ -17,7 +17,7 @@ In the CLI terminal (bash or powershell), go to the folder where your clone will
 ```
 $ git clone <repo_url>
 ```
-You may wand just to clone a single folder:
+You may want just to clone a single folder:
 ```
 $ git clone <repo_url> <dir_name>
 ```
