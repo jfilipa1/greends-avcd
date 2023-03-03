@@ -24,6 +24,10 @@ Apoio a projetos de investigação; Desenvolvimento de uma API direcionado ao IN
 Auxiliar de Produção - Adega
 Adega Mayor - Sociedade Vitivinícola e Enoturística, S.A., Campo Maior
 Controlo da receção da uva;
+python 
+Engenharia
+Engenharia
+big data
 Higienização dos equipamentos;
 Acompanhamento da viticultura e realização de análises; Aplicação de produtos enológicos;
 Auxiliar de montagem de cozinhas
@@ -44,6 +48,11 @@ Voluntariado Jovem Jul 2016 - Jul 2016 Câmara Municipal de Sintra, Sintra
 marinha
 marinha
 Marinha
+analyst 
+analyst
+sql
+sql
+sql
 Mecanização básica e condução de veículos agrícolas - Formação Jan 2022 - Mai 2022
 Associação dos Produtores Agrícolas da Sobrena, Cadaval
 Trator e máquinas agrícolas ‐ constituição, funcionamento, manutenção e regulação;(50h) Condução do trator com reboque e máquinas agrícolas;(50h)
