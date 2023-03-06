@@ -1,0 +1,83 @@
+ Pessoal Nome
+Diogo Pinto
+Endereço
+Rua do mindelo, Praia das Maçãs 2705-314 lisboa
+Número de telefone
+926774879
+Email
+diogoeugeniopinto@gmail.com
+  Diogo Pinto
+ Licenciado em Engenharia Agronómica.
+Atualmente encontro-me a realizar o mais recente mestrado do Instituto Superior de Agronomia, mais precisamente: Mestrado em” Green Data Science”.
+Sempre fui um grande adepto das tecnologias, e fascinado pela automatização e eficiência de processos com os mais diversos apoios da tecnologia (TI, inteligência artificial, machine learning,etc) decidi ingressar nesta área tão ampla, que é o Data Science.
+Até à data estou muito contente com a escolha que fiz, e sigo bastante entusiasmado e motivado para continuar esta jornada.
+Data
+Optimização 
+Engenharia
+Agronomia
+Data Science
+Estágio - Consultoria
+Consulai, Rua da Junqueira, 1300-307 LISBOA
+Área de RESEARCH;
+Tratamento e processamento de dados -BIG DATA; Estudos de mercado no sector agrícola;
+Apoio a projetos de investigação; Desenvolvimento de uma API direcionado ao INE;
+Auxiliar de Produção - Adega
+Adega Mayor - Sociedade Vitivinícola e Enoturística, S.A., Campo Maior
+Controlo da receção da uva;
+python 
+Engenharia
+Engenharia
+big data
+Higienização dos equipamentos;
+Acompanhamento da viticultura e realização de análises; Aplicação de produtos enológicos;
+Auxiliar de montagem de cozinhas
+Fabriprojecto, Lda., Lisboa
+Empregado de mesa e bar
+Engenharia
+Restaurante da Adraga, Lisboa
+Empregado de mesa e bar
+Restaurante da Adraga, Lisboa
+Empregado de mesa e bar
+Bar Invinio, Praia das Maçãs
+oficial fuzileiro
+Ministério da Defesa Nacional - Marinha - Escola de Fuzileiros, Vale de Zebro
+marinha 
+ Prestação de serviço em regime de contrato na categoria de Oficial, na classe de Fuzileiro.
+Voluntariado Jovem Set 2017 - Set 2017 Câmara Municipal de Sintra, Sintra
+Voluntariado Jovem Jul 2016 - Jul 2016 Câmara Municipal de Sintra, Sintra
+marinha
+marinha
+Marinha
+analyst 
+analyst
+sql
+sql
+sql
+Mecanização básica e condução de veículos agrícolas - Formação Jan 2022 - Mai 2022
+Associação dos Produtores Agrícolas da Sobrena, Cadaval
+Trator e máquinas agrícolas ‐ constituição, funcionamento, manutenção e regulação;(50h) Condução do trator com reboque e máquinas agrícolas;(50h)
+Processos e métodos de mobilização do solo;(25h)
+Processos e métodos de sementeira e plantação; (25h)
+Processos e métodos de correção/fertilização do solo;(25h)
+Processos e métodos de proteção fitossanitária e de aplicação de produtos fitofarmacêuticos;(50h)
+ QGIS - Formação
+Instituto Superior de Agronomia, Lisboa
+Curso de formação em: Unleash QGIS with Python ‐ beginners course Udemy Cursos
+Curso de formação em: Geoprocessamento e QGIS aplicados na agricultura de precisão
+Curso de formação em: Excel, do Básico ao Avançado
+Mestrado
+ULisboa - Instituto Superior de Agronomia, Lisboa
+Green Data Science.
+Licenciatura
+ULisboa - Instituto Superior de Agronomia, Lisboa
+Engenharia Agronómica.
+Secundário
+Escola Secundária Santa Maria, Sintra
+Ciências e Tecnologias.
+Microsoft Office
+Língua Inglesa
+Língua Francesa
+Carta de condução (A1 e B)
+Programação – Linguagem Python
+Data Science
+Big Data     
